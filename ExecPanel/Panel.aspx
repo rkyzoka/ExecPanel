@@ -155,7 +155,7 @@
                                 <tr>
                                     <td class="auto-style16">&nbsp;Senha:</td>
                                     <td class="auto-style16">
-                                        <asp:TextBox ID="TextBox9" runat="server" Width="183px"></asp:TextBox>
+                                        <asp:TextBox ID="TextBox9" runat="server" Width="183px" TextMode="Password"></asp:TextBox>
                                     </td>
                                 </tr>
 
